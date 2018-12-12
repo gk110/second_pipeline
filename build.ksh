@@ -1,2 +1,2 @@
-#!/bin/ksh
+#!/bin/bash
 echo "This build step"
